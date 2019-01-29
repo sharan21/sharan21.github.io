@@ -1,0 +1,130 @@
+html, body{
+	height: 100%;
+	background-color: #1A1616;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+
+h3{
+	font-family: sans-serif;
+}
+p {
+	font-family: sans-serif;
+}
+#header li{
+	list-style-type: none;
+}
+#header h3{
+	color: #EEE;
+
+
+	text-align: center;
+}
+
+.headerdivcontact img{
+	margin-top: 50px;
+}
+#container{
+	margin: 0px auto 0px auto;
+
+	width: 1200px;
+	height: 130%;
+	background-color: white;
+
+}
+.headerdivmain{
+	text-align: center;
+	width: 99%;
+	height: 40%;
+}
+.headerdivmain img{
+
+	margin-top: 15px;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+.headerdivcontact img{
+
+	width: 50px;
+	height: 50px;
+
+
+}
+
+.headerdiv{
+
+	color: #EEE;
+
+
+	width: 99%;
+	border-top: 1px solid #EEE;;
+	margin-top: 2px;
+
+	text-align: center;
+
+}
+.headerdivcontact{
+
+	color: #EEE;
+
+
+	width: 99%;
+	border-top: 1px solid #EEE;;
+	margin-top: 2px;
+
+	text-align: center;
+
+}
+
+
+#header{
+	background-color: #2A2A2A;
+	position: fixed;
+
+	float: left;
+	width: 22%;
+	height: 99%;
+
+
+
+}
+
+#main {
+	float: right;
+	width: 70%;
+}
+#main #description {
+	margin-right: 40px;
+
+
+}
+#main #experience{
+	margin-right: 40px;
+
+
+}
+#main #projects {
+	margin-right: 40px;
+
+
+}
+#main #contact {
+	margin-right: 40px;
+}
+
+
+#footer{
+	background-color: #2A2A2A;
+	text-align: right;
+	padding-right: 2px;
+	margin-top: 72px;
+	color: white;
+	font-family: "sans-serif";
+	height: 30px;
+	clear: both;
+
+}
